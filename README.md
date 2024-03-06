@@ -1,3 +1,5 @@
 # temperature-calculator
 
-Simple temperature calculator wrote in python. Contains customtkinter GUI and basic web scraping with BeautifulSoup.
+🐍 Simple temperature calculator wrote in python 🐍 
+🔥🛠️ Customtkinter GUI 🛠️🔥
+🍲 Basic web scraping with BeautifulSoup 🍲
